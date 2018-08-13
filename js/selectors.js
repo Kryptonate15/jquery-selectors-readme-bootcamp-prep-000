@@ -1,1 +1,1 @@
-function par
+function paragraphSelector
